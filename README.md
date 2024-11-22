@@ -1,0 +1,2 @@
+# vkplay-autoclick
+вкплей-автокликер
